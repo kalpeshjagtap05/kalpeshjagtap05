@@ -9,7 +9,7 @@
      Upload an image to the repo (e.g. assets/banner.png) and use:
      <img src="assets/banner.png" width="100%" alt="banner"/> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=%3E_%20kalpesh.dev&fontColor=c9d1d9&fontSize=42&fontAlign=50&fontAlignY=50&animation=fadeIn" width="100%" alt="banner"/>
+  <img src="banner.jpeg" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kalpesh Jagtap</h1>
